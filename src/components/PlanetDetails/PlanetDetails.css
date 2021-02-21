@@ -1,0 +1,23 @@
+.planet-details {
+  text-align: left;
+}
+
+.planet-details ul li {
+  text-transform: capitalize;
+}
+
+.planet-details section {
+  margin-top: 2rem;
+}
+
+.planet-details section h4 {
+  padding-left: 2rem;
+}
+
+.planet-details section h4 a {
+  color: #000;
+}
+
+.details {
+  padding: 0 2rem;
+}

@@ -1,0 +1,7 @@
+.add-planet {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+}
